@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.002140b0.css",
+    "main.js": "./static/js/main.3e6ca722.js",
+    "static/js/787.e68f985a.chunk.js": "./static/js/787.e68f985a.chunk.js",
+    "static/media/Background 1.jpg": "./static/media/Background 1.0fadee90aa7ba69942df.jpg",
+    "static/media/2.jpeg": "./static/media/2.bb34108f8d90c15b76b0.jpeg",
+    "static/media/1.jpeg": "./static/media/1.73e880a4c925855a8670.jpeg",
+    "static/media/4.jpeg": "./static/media/4.d8a9ed03d25f81c765ea.jpeg",
+    "static/media/3.jpeg": "./static/media/3.3391adaac85ae7f49293.jpeg",
+    "static/media/5.jpeg": "./static/media/5.f9068d0deefb56da51a4.jpeg",
+    "static/media/Background 2.jpg": "./static/media/Background 2.fa00d08fee876669c8d2.jpg",
+    "static/media/FlowerLeafDemo-1GqlB.ttf": "./static/media/FlowerLeafDemo-1GqlB.aec17b767b105a8071a7.ttf",
+    "static/media/Background 3.jpg": "./static/media/Background 3.115eb2c984f212ee72c2.jpg",
+    "static/media/6.jpg": "./static/media/6.acb6a754b5aa81ea71df.jpg",
+    "static/media/logo mae.png": "./static/media/logo mae.ccede15abe3082c161fd.png",
+    "index.html": "./index.html",
+    "main.002140b0.css.map": "./static/css/main.002140b0.css.map",
+    "main.3e6ca722.js.map": "./static/js/main.3e6ca722.js.map",
+    "787.e68f985a.chunk.js.map": "./static/js/787.e68f985a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002140b0.css",
+    "static/js/main.3e6ca722.js"
+  ]
+}
